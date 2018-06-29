@@ -16,6 +16,6 @@ return (++n)
 function dec (n) { 
   return (--n)
 }
- parseInt(n, 10);
+ parseInt(n, 10)
  return (n)
  
